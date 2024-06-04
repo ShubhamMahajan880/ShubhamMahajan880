@@ -1,4 +1,4 @@
-![logo](https://github.com/ShubhamMahajan880/ShubhamMahajan880/blob/main/This%20contains%20an%20image%20of_%20(10).jpg)
+
 <h1 align="center">Welcome Everyone👋, I'm Shubham Mahajan</h1>
 <h3 align="center">A passionate Frontend Developer and dedicated Wordpress Developer as well as Workaholic Technology Enthusiast from India</h3>
 
