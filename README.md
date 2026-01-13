@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahajanvitthal8" target="blank"><img src="https://img.shields.io/twitter/follow/mahajanvitthal8?logo=twitter&style=for-the-badge" alt="mahajanvitthal8" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://shubhammahajan.carrd.co/]([https://shubhammahajan.carrd.co/](https://shubhammahajan-portfolio.base44.app/))
+- 👨‍💻 All of my projects are available at [https://shubhammahajan-portfolio.base44.app/]
 
 - 📝 I regularly write articles✍️ on [https://medium.com/@mhajan.shubh](https://medium.com/@mhajan.shubh)
 
