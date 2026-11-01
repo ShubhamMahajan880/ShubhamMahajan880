@@ -1,4 +1,5 @@
-![Screenshot 2026-01-10 001347](https://github.com/user-attachments/assets/719ae429-033f-4b92-99db-e756a644ac5b)
+![Screenshot 2026-01-10 001347](<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/0d509988-389c-4f59-b3f3-eaa3653b2f63" />
+)
 
 <h1 align="center">Welcome Everyone👋, I'm Shubham Mahajan</h1>
 <h3 align="center">A passionate Frontend Developer and dedicated Wordpress Developer as well as Workaholic Technology Enthusiast from India</h3>
